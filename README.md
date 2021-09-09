@@ -33,10 +33,6 @@ _You **can** combine them_
   1. Item 3a
   1. Item 3b
 
-## Images
-
-![This is a alt text.](/image/sample.png "This is a sample image.")
-
 ## Links
 
 You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
