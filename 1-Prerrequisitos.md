@@ -33,4 +33,4 @@ This message shows that your installation appears to be working correctly.
 ...
 ```
 ## Proximos pasos
-Para el siguiente paso del laboratorio, diríjase a [2 - Generar nuestro primer contenedor](2-Generar_nuestro_primer_contenedor.md)
+Para el siguiente paso del laboratorio, diríjase a [2 - Generar nuestro primer contenedor](https://github.com/ElLargo/DevOps-180736/blob/develop/2-Generar_nuestro_primer_contenedor%20copy.md)
