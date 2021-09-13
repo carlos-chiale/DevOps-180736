@@ -97,4 +97,4 @@ En los puntos anteriores, se manejaron muchos términos super específicos sobre
 - *Docker Store* - Un [storage](https://store.docker.com/) de imágenes de Docker, donde puede encontrar contenedores, complementos y ediciones de Docker confiables y listos para la empresa. Lo usará más adelante en este tutorial.
 
 ## Proximos pasos
-Para el siguiente paso del laboratorio, diríjase a [2.0 Webapps with Docker](./webapps.md)
+Para el siguiente paso del laboratorio, diríjase a [2.0 Webapps with Docker](https://github.com/ElLargo/DevOps-180736/blob/develop/3-Webapp_en_docker.md)
