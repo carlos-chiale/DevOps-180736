@@ -8,7 +8,7 @@ La experiencia previa en el desarrollo de aplicaciones web será útil, pero no 
 Hacerse una cuenta en la página anterior.
 
 ### Preparando nuestro ambiente
-Configurar todas las herramientas en su ambiente de trabajo puede ser una tarea que demante mucho tiempo, pero hacer que Docker esté en funcionamiento en su sistema operativo de preferencia se ha vuelto muy fácil.
+Configurar todas las herramientas en su ambiente de trabajo puede ser una tarea que demande mucho tiempo, pero hacer que Docker esté en funcionamiento en su sistema operativo de preferencia se ha vuelto muy fácil.
 
 La *guía de introducción* en Docker tiene instrucciones detalladas para configurar Docker en [Mac](https://docs.docker.com/docker-for-mac/), [Linux](https://docs.docker.com/engine/installation/linux/) and [Windows](https://docs.docker.com/docker-for-windows/).
 
