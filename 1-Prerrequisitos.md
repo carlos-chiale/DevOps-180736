@@ -12,6 +12,8 @@ Configurar todas las herramientas en su ambiente de trabajo puede ser una tarea 
 
 La *guía de introducción* en Docker tiene instrucciones detalladas para configurar Docker en [Mac](https://docs.docker.com/docker-for-mac/), [Linux](https://docs.docker.com/engine/installation/linux/) and [Windows](https://docs.docker.com/docker-for-windows/).
 
+[Portainer, manejador gráfico para ambientes Linux](https://github.com/portainer/portainer)
+
 *Si está utilizando Docker para Windows* asegúrese de tener [shared your drive](https://docs.docker.com/docker-for-windows/#shared-drives).
 
 *Nota importante* Si está usando una versión anterior de Windows o MacOS, es posible que deba usar [Docker Machine](https://docs.docker.com/machine/overview/).
